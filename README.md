@@ -1,8 +1,10 @@
 - 👋 Boas vindas ao meu perfil Gith🌷
+  
 -meu nome é Maisa Souza
 -Estudante da [Alura]📚(https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript💻
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos📋
+
 ### Você pode entrar em contato comigo📫
 
 maisa.tayas2@gmail.com
